@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "yukirabotz@gmail.com",
-    "password": "Yukira3210@",
+    "email": "nikeshkurosaki@gmail.com",
+    "password": "Vex3210@#",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -15,13 +15,7 @@
   "adminOnly": false,
   "adminBot": [
     "100022653450378",
-    "61551959914813",
-    "61554876513562",
-    "100061638878234",
-    "100064354730691",
-    "100087872880976",
-    "100092239233757",
-    "100086579222499"
+    "61551959914813"
   ],
   "whiteListMode": {
     "enable": false,
